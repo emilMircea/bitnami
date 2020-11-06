@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Dashboard from "./AutheticatedApp/Dashboard";
+import Dashboard from "./Dashboard/Dashboard";
 import "./App.css";
 
 function App() {
